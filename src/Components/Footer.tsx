@@ -163,7 +163,7 @@ import '../App.css'
           </div>
         </div>
       </div>
-import '../App.css'
+// import '../App.css'
 
 
 function Footer() {
